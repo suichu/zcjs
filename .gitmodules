@@ -1,0 +1,3 @@
+[submodule "zipcode_jp"]
+	path = zipcode_jp
+	url = https://github.com/kmdsbng/zipcode_jp
